@@ -137,7 +137,7 @@ numpy==1.26.4
 certifi>=2024.7.4
 
 # snyk finding
-setuptools~=71.0.3
+setuptools~=78.1.1
 
 # Pin MarkupSafe to avoid button issue for logged in user
 MarkupSafe==2.*
